@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Josue de Santos!</h1>
-<h3 align="center">Currently pursuing CS50x - Learning Computer Science</h3>
+<h1 align="center">Hi 👋, This is Josue de Santos!</h1>
+<h2 align="center">Currently studying CS50x - Learning Computer Science</h2>
+<h3 align="left">I'm a self-taught software entusiast :D </h3>
+
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
-- 🌱 I’m currently learning **CS50x - C - Javascript - Python - HTML**
+- 🌱 I’m currently learning **CS50x - Javascript - Python - C - HTML - CSS**
 
 - 📄📫 Know more about my experiences and reach me on my [LinkedIn](https://www.linkedin.com/in/josuedesantos/)
 
-- ⚡ A few quick facts: I'm interested in AI, Machine Learning, and Web Development.
+<h3 aling="left">⚡ A few quick facts:</h3> 
+
+- 🧑🏻‍💻 I'm interested in AI, Machine Learning, Mobile App and Web Development.
+- 🏔️🧭 I love hiking and backpaking, just coming back from my world trip 🌏.
+- I practice self-thought meditation . 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
