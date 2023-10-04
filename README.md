@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Josue de Santos!</h1>
+<h1 align="center">Hi! This is Josue de Santos!👋</h1>
 <h2 align="center">Currently studying CS50x - Learning Computer Science</h2>
 <h3 align="left">I'm a self-taught software entusiast :D </h3>
 
