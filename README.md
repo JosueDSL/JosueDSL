@@ -12,8 +12,9 @@
 
 - 🧑🏻‍💻 I'm interested in AI, Machine Learning, Mobile App and Web Development.
 - 🏔️🧭 I love hiking and backpaking, just coming back from my world trip 🌏.
-- I daily practice meditation, reading and I'm an apasionate learner
 - Better beware, because I'm on a knowledge-sucking spree, vacuuming up every useful nugget I stumble upon!
+- More than just an apasionate learner.
+
 <h4>Say geek 3 times and I'll be right behind your back 😆</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
