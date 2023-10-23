@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **CS50x - Javascript - Python - C - HTML - CSS**
 
-- 📄📫 Know more about my experiences and reach me on my [LinkedIn](https://www.linkedin.com/in/josuedesantos/)
+- 📄📫 Know more about my experiences and let's get in touch on my [LinkedIn](https://www.linkedin.com/in/josuedesantos/)
 
 <h3 aling="left">⚡ A few quick facts:</h3> 
 
