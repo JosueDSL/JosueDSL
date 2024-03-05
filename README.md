@@ -4,14 +4,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
-- 🌱 I’m currently learning **CS50x - Javascript - Python - C - HTML - CSS**
+- 🌱 I’m currently Teaching **CS50x - Javascript - Python - C - HTML - CSS**
 
 - 📄📫 Know more about my experiences and let's get in touch on my [LinkedIn](https://www.linkedin.com/in/josuedesantos/)
 
 <h3 aling="left">⚡ A few quick facts:</h3> 
 
-- 🧑🏻‍💻 I'm interested in AI, Machine Learning, Mobile App and Web Development.
-- 🏔️🧭 I love hiking and backpaking, just coming back from my world trip 🌏.
+- Im currectly making a bunch of projects as Backend web dev in python based frameworks like Flask and Django.
+- 🧑🏻‍💻 I'm interested in AI and Mobile Apps.
 - Better beware, because I'm on a knowledge-sucking spree, vacuuming up every useful nugget I stumble upon!
 - More than just an apasionate learner.
 
@@ -41,8 +41,5 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
